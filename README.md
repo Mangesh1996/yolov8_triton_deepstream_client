@@ -10,7 +10,7 @@ bash run_docker.sh
 ```
 ## NOTE
 ```
-This is the only Yolov7-deeptstream-client inference on GRPC, you also need a Triton server to load the Yolov7 plan file (engine) model.
+This is the only Yolov8-deeptstream-client inference on GRPC, you also need a Triton server to load the Yolov7 plan file (engine) model.
 kindly refer.:-
 ```
 <details><summary> <b>Expand</b> </summary>
